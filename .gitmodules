@@ -1,0 +1,3 @@
+[submodule "WifiSwitch"]
+	path = WifiSwitch
+	url = https://github.com/anatolyduzenko/WiFiSwitch
