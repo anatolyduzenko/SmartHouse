@@ -1,3 +1,6 @@
 [submodule "WifiSwitch"]
 	path = WifiSwitch
 	url = https://github.com/anatolyduzenko/WiFiSwitch
+[submodule "AirQualityMonitoringSystem"]
+	path = AirQualityMonitoringSystem
+	url = git@github.com:anatolyduzenko/AirQualityMonitoringSystem.git
